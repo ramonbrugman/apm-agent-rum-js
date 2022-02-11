@@ -126,7 +126,7 @@
     "html-webpack-plugin": "^4.0.4",
     "husky": "^3.1.0",
     "jasmine": "^3.5.0",
-    "karma": "^4.4.1",
+    "karma": "^6.3.14",
     "karma-benchmark": "^1.0.4",
     "karma-benchmark-json-reporter": "^1.0.1",
     "karma-benchmark-reporter": "^0.1.1",
